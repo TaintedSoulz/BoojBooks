@@ -71,7 +71,7 @@
                 minimumInputLength: 3,
                 minimumResultsForSearch: 50,
                 ajax: {
-                    url: 'http://openlibrary.org/search.json',
+                    url: 'https://openlibrary.org/search.json',
                     dataType: 'json',
                     delay: 1000,
                     data: function (params) {
